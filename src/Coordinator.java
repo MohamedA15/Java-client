@@ -1,15 +1,3 @@
-// COMP1549 - Advanced Programming
-
-// GROUP 67
-// Group members:
-// - Omith Chowdhury - 001236697
-// - Daim Ahmed - 001223454
-// - Mohammed Amiin Mohammed - 001223569
-// - Tuong-Luan X Bach - 001232844
-// - Zafer Ahmed - 001225733
-
-// CODE FOR THE COORDINATOR
-
 package src;
 
 // This class manages the coordinator role within the chat application.
